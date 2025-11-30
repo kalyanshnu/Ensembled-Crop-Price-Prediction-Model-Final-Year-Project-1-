@@ -1,0 +1,36 @@
+Crop,Model,MAE,RMSE,R²,MAPE
+Onion,Random Forest,168.175,199.4143,-0.156,5.4427
+Onion,Gradient Boosting,172.0536,211.4527,-0.2998,5.5566
+Onion,XGBoost,177.5204,221.7623,-0.4297,5.7037
+Onion,Linear Regression,155.6421,201.6317,-0.1819,5.2489
+Onion,Ensemble (Avg),162.928,193.3739,-0.0871,5.3149
+Carrot,Random Forest,199.5385,327.7215,0.174,14.1148
+Carrot,Gradient Boosting,240.0877,378.3978,-0.1011,16.9693
+Carrot,XGBoost,196.9663,311.3624,0.2544,14.535
+Carrot,Linear Regression,179.8103,277.0405,0.4098,12.974
+Carrot,Ensemble (Avg),179.6946,308.4193,0.2685,12.6625
+Pumpkin,Random Forest,248.5669,320.795,0.3317,14.9473
+Pumpkin,Gradient Boosting,249.7053,322.439,0.3248,15.1315
+Pumpkin,XGBoost,324.0696,461.0926,-0.3807,19.8625
+Pumpkin,Linear Regression,226.5354,293.4634,0.4407,13.5586
+Pumpkin,Ensemble (Avg),250.1462,324.9073,0.3144,15.226
+Radish,Random Forest,168.2799,194.8905,-0.8236,26.016
+Radish,Gradient Boosting,170.5327,216.5703,-1.2519,27.4672
+Radish,XGBoost,177.6187,226.8075,-1.4698,28.0851
+Radish,Linear Regression,157.8134,180.6442,-0.5667,24.3826
+Radish,Ensemble (Avg),161.2962,196.9868,-0.863,25.5796
+Bottleg,Random Forest,1302.1645,12199.1432,-0.0015,20.8719
+Bottleg,Gradient Boosting,1316.909,12241.3217,-0.0084,20.2234
+Bottleg,XGBoost,1313.9719,12225.6235,-0.0058,22.311
+Bottleg,Linear Regression,1925.9215,11171.6137,0.1601,75.6772
+Bottleg,Ensemble (Avg),1447.5443,11810.212,0.0614,33.5389
+Cauliflower,Random Forest,1196.2541,1679.4368,0.4773,29.7243
+Cauliflower,Gradient Boosting,1131.3525,1567.876,0.5444,30.8001
+Cauliflower,XGBoost,1316.7966,1945.0653,0.2989,31.0536
+Cauliflower,Linear Regression,844.4662,1159.2704,0.7509,24.7858
+Cauliflower,Ensemble (Avg),1064.5144,1484.6659,0.5915,27.9417
+Potato,Random Forest,125.5263,172.4699,0.0786,20.3848
+Potato,Gradient Boosting,135.4682,181.2034,-0.017,22.5877
+Potato,XGBoost,146.3522,191.8211,-0.1397,23.9665
+Potato,Linear Regression,98.6607,148.5534,0.3164,14.7495
+Potato,Ensemble (Avg),119.6388,164.1306,0.1656,19.429
